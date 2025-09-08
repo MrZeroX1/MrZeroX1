@@ -10,7 +10,7 @@
 - 📊 I’m a student in the Data Science Bootcamp at SDA & Lewagon.
 - 💬 Ask me about anything.
 
-## 🌐 Socials
+## 🗣️ Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hasan-alzayer/)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:hasan.alzayer9@gmail.com)
 
