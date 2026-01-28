@@ -1,13 +1,13 @@
 <!-- Banner / quick intro -->
 # Hi, I'm Hasan Alzayer 👋
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=false&vCenter=false&width=520&lines=Computer+Science+Graduate;AI+Developer;Machine+Learning+Engineer;Deep+Learning+Specialist;Natural+Language+Processing;Data+Scientist;UI%2FUX+Designer;Web+Developer;Application+Developer;Database+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=false&vCenter=false&width=520&lines=Technology+Lead+Computer+Science+Graduate;AI+Developer;Machine+Learning+Engineer;Data+Scientist;Web+Developer;Application+Developer;Database+Engineer;Google+Cloud+Platform" />
 </p>
 
 ## ❓ About Me
-- 🎓 I’m a Computer Science graduate at Imam Abdulrahman Bin Faisal University.
-- 👨‍💻 I worked as an AI Engineer Intern in the Tech Pioneer Program 2024 at Bayan Platform for Data Science & AI.
-- 📊 I’m a student in the Data Science Bootcamp at SDA & Lewagon.
+- 👨‍💻 I'm working as a Technology Lead at Ana Qadha Company.
+- 🎓 Imam Abdulrahman Bin Faisal University Alumni.
+- 📊 Data Scientist Alumni from SDA & Lewagon.
 - 💬 Ask me about anything.
 
 ## 🗣️ Socials
@@ -50,17 +50,12 @@
 <!-- Basic stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=MrZeroX1&show_icons=true&theme=tokyonight)
 
-<!-- Streak -->
-![Streak](https://streak-stats.demolab.com?user=MrZeroX1&theme=tokyonight)
 
 <!-- Top languages (by repo/file, not skill) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrZeroX1&layout=compact&theme=tokyonight)
 
 <!-- Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrZeroX1&theme=tokyonight" />
-
-## 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=MrZeroX1&theme=onedark&no-frame=true&row=1&column=7" />
 
 <!--
 **MrZeroX1/MrZeroX1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
