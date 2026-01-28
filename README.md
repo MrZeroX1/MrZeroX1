@@ -1,7 +1,7 @@
 <!-- Banner / quick intro -->
 # Hi, I'm Hasan Alzayer 👋
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=false&vCenter=false&width=520&lines=Technology+Lead+Computer+Science+Graduate;AI+Developer;Machine+Learning+Engineer;Data+Scientist;Web+Developer;Application+Developer;Database+Engineer;Google+Cloud+Platform" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&center=false&vCenter=false&width=520&lines=Technology+Lead;Computer+Science+Graduate;AI+Developer;Machine+Learning+Engineer;Data+Scientist;Web+Developer;Application+Developer;Database+Engineer;Google+Cloud+Platform" />
 </p>
 
 ## ❓ About Me
